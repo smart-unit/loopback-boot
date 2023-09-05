@@ -31,7 +31,7 @@
     "debug": "^4.1.1",
     "lodash": "^4.17.11",
     "semver": "^5.1.0",
-    "strong-globalize": "^4.1.1",
+    "strong-globalize": "^6.0.6",
     "toposort": "^2.0.2"
   },
   "devDependencies": {
